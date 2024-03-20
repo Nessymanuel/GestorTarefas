@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1710961064 source:c:\users\user.desktop-omq89va\desktop\cpd\gestor.c
+	<stdio.h>
+	<string.h>
+	"gestor.h"
+
+1710961064 c:\users\user.desktop-omq89va\desktop\cpd\gestor.h
+
+1710961064 source:c:\users\user.desktop-omq89va\desktop\cpd\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"gestor.h"
+
